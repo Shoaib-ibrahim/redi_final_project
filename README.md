@@ -1,4 +1,4 @@
-# redi_final_project
+# ReDl_Final_Project
 Password Generator
 
 Group members
