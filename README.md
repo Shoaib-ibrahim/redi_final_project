@@ -3,3 +3,5 @@ Password Generator
 
 Group members
 -   Shoaib
+-   Abhishek
+-   Osama
